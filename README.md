@@ -1,5 +1,4 @@
 # Concord RCE
-Overview
 
 This repository contains a Python exploit targeting a serise of vulnerabilities in the open-source Concord Workflow Server (developed by Walmart). The exploit obtains remote code execution.
 
