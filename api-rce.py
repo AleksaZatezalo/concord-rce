@@ -10,7 +10,7 @@ def printLog(message):
     Logs the string, message, to console with the appendage '[+] '.
     """
 
-    pass
+    print(f'[+] {message}')
 
 def constructYaml(lhost, lport):
     """
@@ -59,4 +59,4 @@ def obtainRCE(yaml, rhost):
     pass
 
 if __name__ == "__main__":
-    print(constructYaml("192.168.118.2", 9000))
+    pass
